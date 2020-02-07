@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pauls-brokerage/precache-manifest.8043952ea43ff3ce0f2a11d7940ac7a4.js"
+  "/pauls-brokerage/precache-manifest.19735e3dd178f22263386bb3b5d82f61.js"
 );
 
 self.addEventListener('message', (event) => {
