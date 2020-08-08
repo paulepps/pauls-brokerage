@@ -1,6 +1,6 @@
 # pauls-brokerage
 
-This is a React client application that consumes a REST API implemented on a .NET Core Web API server. It is deployed on GitHub Pages at https://paulepps.github.io/pauls-brokerage.
+This is a React client application that consumes a REST API implemented on a .NET Core Web API server (https://github.com/paulepps/AccountOwnerServer). It is deployed on GitHub Pages at https://paulepps.github.io/pauls-brokerage.
 
 1. Used React Router and Bootstrap to implement a navigation component.
 2. Used Axios for API calls to handle GET, POST, PUT and DELETE calls.
